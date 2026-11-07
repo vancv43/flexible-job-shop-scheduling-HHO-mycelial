@@ -1,0 +1,6 @@
+# versions used to check the reported results
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+# tests only: tests/test_fjsp.py compares the Louvain routine with networkx
+networkx==3.6.1

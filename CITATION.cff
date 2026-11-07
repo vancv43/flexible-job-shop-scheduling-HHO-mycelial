@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Nature-Inspired Optimization: Improved Harris Hawks Optimization with Mycelial Search for Flexible Job Shop Scheduling under an Equal Evaluation Budget"
+authors:
+  - family-names: Chau
+    given-names: Van Van
+    orcid: "https://orcid.org/0009-0008-0325-6809"
+  - family-names: Klinsak
+    given-names: Usa
+    orcid: "https://orcid.org/0009-0006-0183-9424"
+  - family-names: Thorn
+    given-names: Chinda
+    orcid: "https://orcid.org/0009-0008-0652-4741"
+  - family-names: Gui
+    given-names: Anderes
+    orcid: "https://orcid.org/0000-0002-1036-2609"
+  - family-names: Nguyen
+    given-names: Minh Tuan
+    orcid: "https://orcid.org/0000-0002-4035-1759"
+  - family-names: Meesad
+    given-names: Phayung
+    orcid: "https://orcid.org/0000-0002-3742-6457"
+repository-code: "https://github.com/vancv43/flexible-job-shop-scheduling-HHO-mycelial"
+license: MIT
+date-released: "2026-11-07"
